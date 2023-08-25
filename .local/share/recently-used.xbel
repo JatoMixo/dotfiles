@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="appstream://org.kde.discover.desktop" added="2023-08-17T12:40:54.796000Z" modified="2023-08-17T12:40:54.796000Z" visited="2023-08-17T12:40:54.796000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.discover.urlhandler" exec="plasma-discover %U %u" modified="2023-08-17T12:40:54.796000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jatomixo/wp2765038-the-legend-of-zelda-breath-of-the-wild-hd-wallpapers.png" added="2023-08-18T13:50:05.284924Z" modified="2023-08-18T13:50:05.284934Z" visited="2023-08-18T13:50:05.284925Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-08-18T13:50:05.284928Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jatomixo/wallpapers" added="2023-08-18T13:53:05.157000Z" modified="2023-08-18T13:53:05.157000Z" visited="2023-08-18T13:53:05.157000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="kitty-open" exec="kitty +open %U %u" modified="2023-08-18T13:53:05.157000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jatomixo/wallpapers/SheikahWallpaper.png" added="2023-08-18T13:54:00.306294Z" modified="2023-08-18T14:03:11.301905Z" visited="2023-08-18T13:54:00.306295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Programa de manipulación de imágenes de GNU" exec="&apos;gimp-2.10 %u&apos;" modified="2023-08-18T14:00:24.234956Z" count="2"/>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-2.10 %u&apos;" modified="2023-08-18T14:03:11.301903Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jatomixo/66.png" added="2023-08-18T14:10:10.782702Z" modified="2023-08-18T14:10:10.782713Z" visited="2023-08-18T14:10:10.782703Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-08-18T14:10:10.782708Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jatomixo/wallpapers/DarkHole.png" added="2023-08-18T14:15:49.161000Z" modified="2023-08-18T14:24:44.908000Z" visited="2023-08-18T14:24:44.908000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2023-08-18T14:16:47.922000Z" count="2"/>
+          <bookmark:application name="org.kde.plasmashell" exec="/usr/bin/plasmashell %u" modified="2023-08-18T14:24:44.908000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jatomixo/Escritorio" added="2023-08-18T14:24:07.372000Z" modified="2023-08-18T14:24:11.776000Z" visited="2023-08-18T14:24:11.776000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="thunar" exec="thunar %U %u" modified="2023-08-18T14:24:11.776000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jatomixo/CascadiaCode.zip" added="2023-08-19T18:51:30.291946Z" modified="2023-08-19T18:51:30.291954Z" visited="2023-08-19T18:51:30.291947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-08-19T18:51:30.291949Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

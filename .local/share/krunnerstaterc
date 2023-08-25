@@ -1,0 +1,5 @@
+[PlasmaRunnerManager]
+LaunchCounts=4 exec:///usr/bin/grub-customizer,1 exec:///usr/lib/firefox/firefox,2 exec:///usr/bin/kitty,1 exec:///usr/bin/gimp-2.10,2 places_file:///home/jatomixo/Escritorio,2 exec:///usr/bin/thunar,1 exec:///usr/bin/dolphin,1 exec:///usr/bin/rofi -show
+
+[PlasmaRunnerManager][History]
+e044519a-4054-46f1-8910-fac98039bff7=rofi,Thunar,Dolphin,Escritorio,Escri,thunar,Grub,gimp,Grub Customizer,Firefox,kitty

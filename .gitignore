@@ -5,14 +5,12 @@
 
 # Except for the config
 !README.md
-!.config/kitty
-!.config/hypr
+!.config
 !powerlevel10k
-!repos/blackarch/strap.sh
-!repos/paru/PKGBUILD
-!wallpapers/DarkHole.png
+!repos
+!wallpapers
 !.fehbg
 !.gtkrc-2.0
 !.p10k.zsh
 !.zshrc
-!.local/share/nvim
+!.local

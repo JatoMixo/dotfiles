@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=inode-directory
+Name=wallpapers
+Type=Link
+URL[$e]=file:$HOME/wallpapers
+X-KDE-LastOpenedWith=kitty-open

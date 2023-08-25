@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=plasmadiscover
+Name=
+Type=Link
+URL[$e]=appstream://org.kde.discover.desktop
+X-KDE-LastOpenedWith=org.kde.discover.urlhandler
