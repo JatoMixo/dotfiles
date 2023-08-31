@@ -22,7 +22,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][1][General]
-positions={"1920x1080":["1"\\,"17"\\,"desktop:/README.md"\\,"0"\\,"3"\\,"desktop:/wallpapers"\\,"0"\\,"2"\\,"desktop:/Code"\\,"0"\\,"4"\\,"desktop:/repos"\\,"0"\\,"1"\\,"desktop:/powerlevel10k"\\,"0"\\,"0"]}
+positions={"1920x1080":["1"\\,"17"\\,"desktop:/repos"\\,"0"\\,"1"\\,"desktop:/powerlevel10k"\\,"0"\\,"0"\\,"desktop:/README.md"\\,"0"\\,"3"\\,"desktop:/wallpapers"\\,"0"\\,"2"\\,"desktop:/Code"\\,"0"\\,"4"]}
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
@@ -175,4 +175,4 @@ knownItems=org.kde.kscreen,org.kde.plasma.keyboardlayout,org.kde.plasma.vault,or
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/powerlevel10k,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/repos,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/wallpapers,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/README.md,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/Code,0,e044519a-4054-46f1-8910-fac98039bff7
+screenMapping=desktop:/wallpapers,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/README.md,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/Code,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/repos,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/powerlevel10k,0,e044519a-4054-46f1-8910-fac98039bff7
