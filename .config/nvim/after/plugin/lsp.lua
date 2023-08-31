@@ -4,6 +4,13 @@ lsp.preset('recommended')
 
 lsp.ensure_installed({
   'rust_analyzer',
+  'tsserver',
+  'svelte',
+  'pylsp',
+  'lua_ls',
+  'arduino_language_server',
+  'cssls',
+  'html',
 })
 
 lsp.set_preferences({
