@@ -175,4 +175,4 @@ knownItems=org.kde.kscreen,org.kde.plasma.keyboardlayout,org.kde.plasma.vault,or
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/package-lock.json,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/Code,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/wallpapers,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/README.md,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/repos,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/powerlevel10k,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/node_modules,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/package.json,0,e044519a-4054-46f1-8910-fac98039bff7
+screenMapping=desktop:/Code,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/package-lock.json,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/repos,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/node_modules,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/package.json,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/README.md,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/powerlevel10k,0,e044519a-4054-46f1-8910-fac98039bff7,desktop:/wallpapers,0,e044519a-4054-46f1-8910-fac98039bff7

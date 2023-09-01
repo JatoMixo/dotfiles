@@ -12,7 +12,7 @@ libEGL warning: egl: failed to create dri2 screen
 00:00:00.078 [ERROR] [EGL] command: eglInitialize, error: EGL_NOT_INITIALIZED (0x3001), message: "DRI2: failed to create screen"
 VMware: No 3D enabled (0, Success).
 libEGL warning: egl: failed to create dri2 screen
-00:00:00.094 [ERROR] [EGL] command: eglInitialize, error: EGL_NOT_INITIALIZED (0x3001), message: "DRI2: failed to create screen"
+00:00:00.093 [ERROR] [EGL] command: eglInitialize, error: EGL_NOT_INITIALIZED (0x3001), message: "DRI2: failed to create screen"
 00:00:00.094 [ERROR] [EGL] command: eglInitialize, error: EGL_NOT_INITIALIZED (0x3001), message: "eglInitialize"
 00:00:00.094 [ERROR] [render/egl.c:269] Failed to initialize EGL
 00:00:00.094 [ERROR] [render/egl.c:570] Failed to initialize EGL context
