@@ -5,7 +5,7 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
-clientId1=108eddc7cd000169348925400000004370004
+clientId1=108eddc7cd000169357747300000004350004
 count=1
 program1=pulseaudio
 restartCommand1=
