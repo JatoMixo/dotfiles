@@ -10,3 +10,5 @@ It uses:
 - SDDM For login
 - Grub as the bootloader
 - NeoVim as the code editor
+- Rofi for launching apps
+- Waybar as the top bar
