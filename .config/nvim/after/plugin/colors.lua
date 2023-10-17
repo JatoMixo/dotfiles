@@ -1,5 +1,8 @@
 function ColorPencils(color)
-	color = color or "onedark"
+
+    THEME = "onedark"
+
+	color = color or THEME
 	vim.cmd.colorscheme(color)
 
 	vim.api.nvim_set_hl(0, "Normal", { bg = "none" })

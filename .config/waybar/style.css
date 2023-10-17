@@ -1,0 +1,56 @@
+/* INTENSE RED COLOR: #ff5555 */
+/* BLACK BACKGROUND COLOR (NOT USED): #050510 */
+/* DARK BACKGROUND COLOR: #151515 */
+/* PALID ORANGE COLOR (NOT USED): #fab387 */
+
+* {
+    font-family: "CascadiaCode";
+}
+
+window#waybar {
+    border-radius: 10px;
+    background-color: #151515;
+}
+
+#clock {
+    margin-left: 10px;
+    margin-right: 10px;
+
+    color: #f98f4d;
+}
+
+#workspaces {
+    font-size: 15px;
+}
+
+#workspaces button {
+    color: #b7b7f3;
+}
+
+#workspaces button:hover {
+    border-color: rgba(0, 0, 0, 0);
+}
+
+#workspaces button.active {
+    color: #2ba84a;
+}
+
+#battery {
+    margin-left: 10px;
+    margin-right: 10px;
+
+    color: #62836d;
+}
+
+#pulseaudio {
+    margin-left: 10px;
+    color: #f45759;
+}
+
+#pulseaudio.microphone {
+    color: #4ecdc4;
+}
+
+#network {
+    color: #ea9577;
+}

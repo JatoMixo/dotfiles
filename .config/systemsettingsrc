@@ -1,17 +1,15 @@
 [KFileDialog Settings]
-Recent Files[$e]=DarkHole.png,file:$HOME/wallpapers/DarkHole.png
-Recent URLs[$e]=file:$HOME/wallpapers/,file:$HOME/
+Recent Files[$e]=DarkHole.png,file:$HOME/Images/JatoMixo_Circle.png,file:$HOME/wallpapers/DarkHole.png
+Recent URLs[$e]=file:$HOME/wallpapers/,file:$HOME/Images/
 detailViewIconSize=16
 
 [MainWindow]
-1280x800 screen: Height=680
-1280x800 screen: Width=1020
-1280x800 screen: Window-Maximized=true
-1280x800 screen: XPosition=213
-1280x800 screen: YPosition=126
-1920x1080 screen: XPosition=365
-1920x1080 screen: YPosition=175
+2 screens: Height=691
+2 screens: Width=1020
+2 screens: XPosition=1879
+2 screens: YPosition=184
+HDMI-0 LVDS=HDMI-0
+LVDS VGA-0=LVDS
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAKzAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Virtual-1=Virtual-1
