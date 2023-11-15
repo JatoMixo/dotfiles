@@ -1,3 +1,7 @@
+require("onedark").setup {
+    style = "deep",
+}
+
 function ColorPencils(color)
 
     THEME = "onedark"
