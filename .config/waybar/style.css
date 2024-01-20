@@ -40,6 +40,7 @@ window#waybar {
     margin-right: 10px;
 
     color: #62836d;
+    background-color: #151515;
 }
 
 #pulseaudio {
