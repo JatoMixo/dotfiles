@@ -43,6 +43,25 @@ window#waybar {
     background-color: #151515;
 }
 
+#battery.warning {
+    color: #C95E00;
+}
+
+@keyframes blink-red {
+    0% { color: #C90000; }
+    50% { color: #C90000; }
+    51% { color: #62836d; }
+    100% { color: #62836d; }
+}
+
+#battery.critical {
+    color: #C90000;
+
+    animation: blink-red;
+    animation-duration: 300ms;
+    animation-iteration-count: infinite;
+}
+
 #pulseaudio {
     margin-left: 10px;
     color: #f45759;
