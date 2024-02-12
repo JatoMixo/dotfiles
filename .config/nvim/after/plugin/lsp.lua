@@ -32,8 +32,29 @@ local cmp_mappings = lsp.defaults.cmp_mappings({
     ['<C-Space>'] = cmp.mapping.complete(),
 })
 
+cmp.setup({
+    window = {
+        completion = cmp.config.window.bordered(),
+        documentation = cmp.config.window.bordered(),
+    }
+})
+
 lsp.setup_nvim_cmp({
     mapping = cmp_mappings
 })
 
 lsp.setup()
+
+local lspconfig = require("lspconfig")
+local util = require("lspconfig/util")
+lspconfig.rust_analyzer.setup({
+    filetypes = {"rust"},
+    root_dir = util.root_pattern("Cargo.toml"),
+    settings = {
+        ["rust-analyzer"] = {
+            cargo = {
+                allFeatures = true,
+            },
+        },
+    },
+})

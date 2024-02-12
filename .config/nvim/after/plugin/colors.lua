@@ -9,12 +9,18 @@ function ColorPencils(color)
 	color = color or THEME
 	vim.cmd.colorscheme(color)
 
-	vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
-	vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
-	vim.api.nvim_set_hl(0, "EndOfBuffer", { bg = "none" })
-	vim.api.nvim_set_hl(0, "SignColumn", { bg = "none" })
-	vim.api.nvim_set_hl(0, "NvimTreeNormal", { bg = "none" })
-	vim.api.nvim_set_hl(0, "NvimTreeEndOfBuffer", { bg = "none" })
+    TRANSPARENT_GROUPS = {
+        "Normal",
+        "NormalFloat",
+        "EndOfBuffer",
+        "SignColumn",
+        "NvimTreeNormal",
+        "NvimtreeEndOfBuffer",
+    }
+
+    for _, group in pairs(TRANSPARENT_GROUPS) do
+        vim.api.nvim_set_hl(0, group, { bg = "none" })
+    end
 end
 
 ColorPencils()
