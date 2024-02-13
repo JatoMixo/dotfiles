@@ -16,6 +16,7 @@ function ColorPencils(color)
         "SignColumn",
         "NvimTreeNormal",
         "NvimtreeEndOfBuffer",
+        "FloatBorder",
     }
 
     for _, group in pairs(TRANSPARENT_GROUPS) do
