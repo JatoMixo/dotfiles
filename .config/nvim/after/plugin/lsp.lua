@@ -11,6 +11,7 @@ lsp.ensure_installed({
   'arduino_language_server',
   'cssls',
   'html',
+  'astro',
 })
 
 lsp.set_preferences({
