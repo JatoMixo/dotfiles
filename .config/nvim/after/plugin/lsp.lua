@@ -60,3 +60,5 @@ lspconfig.rust_analyzer.setup({
     },
 })
 
+vim.keymap.set("n", "<leader>rn", vim.lsp.buf.rename)
+

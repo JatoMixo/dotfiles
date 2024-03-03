@@ -3,7 +3,7 @@ require("onedark").setup {
 }
 
 require("rose-pine").setup({
-    variant = "main", -- main, moon
+    variant = "main", -- NOTE: Dark variants: main, moon
 })
 
 function ColorPencils(color)
