@@ -2,10 +2,14 @@ require("onedark").setup {
     style = "deep",
 }
 
-function ColorPencils(color)
-    THEME = "onedark"
+require("rose-pine").setup({
+    variant = "main", -- main, moon
+})
 
-	color = color or THEME
+function ColorPencils(color)
+    DEFAULT_THEME = "onedark"
+
+	color = color or DEFAULT_THEME
 	vim.cmd.colorscheme(color)
 
     local TRANSPARENT_GROUPS = {

@@ -9,8 +9,6 @@ return require("packer").startup(function(use)
 	  requires = { {'nvim-lua/plenary.nvim'} }
 	}
 
-	use "navarasu/onedark.nvim"
-
 	use("nvim-treesitter/nvim-treesitter", {run = ":TSUpdate"})
 
     use "windwp/nvim-ts-autotag"
@@ -48,7 +46,6 @@ return require("packer").startup(function(use)
 
     use "m4xshen/autoclose.nvim"
 
-    use { "catppuccin/nvim", as = "catppuccin" }
     use {
         "folke/todo-comments.nvim",
         dependencies = {
@@ -59,6 +56,11 @@ return require("packer").startup(function(use)
     use "theprimeagen/harpoon"
     use "mbbill/undotree"
     use "tpope/vim-fugitive"
+
+    -- THEMES
+    use { "catppuccin/nvim", as = "catppuccin" }
+	use "navarasu/onedark.nvim"
+    use { "rose-pine/neovim", as = "rose-pine" }
 
     -- Nvim plugin development
     use "milisims/nvim-luaref"
