@@ -3,19 +3,18 @@ require("onedark").setup {
 }
 
 function ColorPencils(color)
-
     THEME = "onedark"
 
 	color = color or THEME
 	vim.cmd.colorscheme(color)
 
-    TRANSPARENT_GROUPS = {
+    local TRANSPARENT_GROUPS = {
         "Normal",
         "NormalFloat",
         "EndOfBuffer",
         "SignColumn",
         "NvimTreeNormal",
-        "NvimtreeEndOfBuffer",
+        "NvimTreeEndOfBuffer",
         "FloatBorder",
     }
 

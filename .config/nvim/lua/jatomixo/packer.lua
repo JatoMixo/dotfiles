@@ -49,4 +49,17 @@ return require("packer").startup(function(use)
     use "m4xshen/autoclose.nvim"
 
     use { "catppuccin/nvim", as = "catppuccin" }
+    use {
+        "folke/todo-comments.nvim",
+        dependencies = {
+            "nvim-lua/plenary.nvim",
+        },
+    }
+
+    -- Nvim plugin development
+    use "milisims/nvim-luaref"
+    use "folke/neodev.nvim"
+
+    -- My plugins
+    use "/home/jatomixo/Code/multiedit.nvim/"
 end)
