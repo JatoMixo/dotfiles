@@ -10,7 +10,7 @@
         "max-length": 50
     },
     "clock": {
-        "format": "{: %H:%M 󰃭 %d/%m}",
+        "format": " {:%H:%M 󰃭 %d/%m}",
     },
     "hyprland/workspaces": {
         "on-click": "activate",
