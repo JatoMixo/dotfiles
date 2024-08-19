@@ -27,7 +27,7 @@
             "special": "",
             "urgent": "",
         },
-        "persistent_workspaces": {
+        "persistent-workspaces": {
             "LVDS-1": 4,
         },
         "sort-by": "id",
